@@ -1,0 +1,26 @@
+body{
+    background-color: #790EAF;
+    }
+
+
+header{
+    background-color: #AF0E15;
+    color: #C6C6C6;
+    font-size: 30mm;
+    font-weight: bolder;
+    text-align: center;
+    padding: 25px;
+
+    }
+
+
+footer{
+    background-color: #262525;
+    color: #FFFCFC;
+    text-align: center;
+        }
+
+
+form{
+    padding: 25px;
+    }
